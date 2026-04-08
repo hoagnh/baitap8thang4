@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "681316585080",
+    "project_id": "thang4-812e5",
+    "storage_bucket": "thang4-812e5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:681316585080:android:d56e39f43031e26ecb278d",
+        "android_client_info": {
+          "package_name": "com.example.a8thang4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGO8ZzVHVreDAQv1YNy3VTeKnGj3rdM0I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
